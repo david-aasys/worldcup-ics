@@ -61,12 +61,27 @@ def fetch_matches(api_key: str) -> list[dict]:
         headers=headers,
         timeout=30,
     )
+
+    # Log throttle state from every response
+    requests_available = resp.headers.get("X-RequestsAvailable")
+    reset_in = resp.headers.get("X-RequestCounter-Reset")
+    log.info("Rate limit — requests remaining: %s, resets in: %ss", requests_available, reset_in)
+
+    if resp.status_code == 429:
+        log.warning("Rate limited. Resets in %ss. Exiting without overwriting .ics.", reset_in)
+        sys.exit(0)  # exit 0 so GitHub Actions doesn't mark the run failed
+
     if resp.status_code == 403:
-        log.error("API returned 403 Forbidden — check that your football-data.org key has access to the World Cup competition.")
+        log.error("403 Forbidden — key may lack access to the World Cup competition.")
         sys.exit(1)
+
     if resp.status_code != 200:
         log.error("API returned HTTP %s: %s", resp.status_code, resp.text[:300])
         sys.exit(1)
+
+    # Warn early if quota is nearly exhausted
+    if requests_available is not None and int(requests_available) <= 5:
+        log.warning("Only %s requests remaining this window (resets in %ss).", requests_available, reset_in)
 
     data = resp.json()
     matches = data.get("matches", [])
