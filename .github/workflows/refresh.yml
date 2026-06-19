@@ -26,6 +26,28 @@ jobs:
 
       - run: pip install requests icalendar pytz
 
+      - name: Check API key is set
+        run: |
+          if [ -z "$API_FOOTBALL_KEY" ]; then
+            echo "ERROR: API_FOOTBALL_KEY secret is empty or not set"
+            exit 1
+          else
+            echo "API key is set (length: ${#API_FOOTBALL_KEY})"
+          fi
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+
+      - name: Test API connectivity
+        run: |
+          echo "Testing API-Football endpoint..."
+          curl -s -o /tmp/api_test.json -w "HTTP %{http_code}" \
+            -H "x-apisports-key: $API_FOOTBALL_KEY" \
+            "https://v3.football.api-sports.io/status"
+          echo ""
+          cat /tmp/api_test.json
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+
       - run: python generate_ics.py
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
