@@ -48,7 +48,8 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
 
-      - run: python generate_ics.py
+      - name: Run generate_ics.py
+        run: python generate_ics.py 2>&1
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
 
