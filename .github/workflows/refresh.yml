@@ -1,0 +1,39 @@
+name: Refresh World Cup ICS
+
+on:
+  schedule:
+    # Live match windows (UTC) — every 5 min
+    - cron: '*/5 15-20 * 6-7 *'
+    - cron: '*/5 21-23 * 6-7 *'
+    - cron: '*/5 0-2 * 6-7 *'
+    # Active tournament days (UTC) — every 30 min outside match windows
+    - cron: '*/30 3-14 * 6-7 *'
+    # Off-peak — every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests icalendar pytz
+
+      - run: python generate_ics.py
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "worldcup-bot"
+          git config user.email "bot@worldcup2026.local"
+          git add output/worldcup.ics
+          git diff --cached --quiet || git commit -m "Refresh ICS [$(date -u +%H:%M UTC)]"
+          git push
