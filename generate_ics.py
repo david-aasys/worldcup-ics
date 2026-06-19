@@ -189,7 +189,7 @@ def main():
         log.warning("%d fixtures are missing date fields", len(missing))
 
     events = [build_event(f) for f in fixtures if f.get("fixture", {}).get("date")]
-    write_ics(events, "output/worldcup.ics")
+    write_ics(events, "docs/worldcup.ics")
 
 
 if __name__ == "__main__":
