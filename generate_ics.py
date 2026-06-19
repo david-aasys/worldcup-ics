@@ -1,10 +1,11 @@
 import os
 import sys
 import logging
+import traceback
 from datetime import datetime, timedelta, timezone
 
 import requests
-from icalendar import Calendar, Event, vText
+from icalendar import Calendar, Event, vText, vDuration
 import pytz
 
 logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -155,7 +156,9 @@ def write_ics(events: list[Event], path: str):
     cal.add("X-WR-TIMEZONE", "America/New_York")
     cal.add("CALSCALE", "GREGORIAN")
     cal.add("METHOD", "PUBLISH")
-    cal.add("REFRESH-INTERVAL;VALUE=DURATION", "PT30M")
+    refresh = vDuration(timedelta(minutes=30))
+    refresh.params["VALUE"] = "DURATION"
+    cal.add("REFRESH-INTERVAL", refresh)
     cal.add("X-PUBLISHED-TTL", "PT30M")
 
     for ev in events:
@@ -193,4 +196,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:
+        traceback.print_exc()
+        sys.exit(1)
