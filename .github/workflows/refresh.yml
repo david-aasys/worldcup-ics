@@ -37,14 +37,18 @@ jobs:
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
 
-      - name: Test API connectivity
+      - name: Sample API match IDs
         run: |
-          echo "Testing API-Football endpoint..."
-          curl -s -o /tmp/api_test.json -w "HTTP %{http_code}" \
-            -H "x-apisports-key: $FOOTBALL_DATA_KEY" \
-            "https://v3.football.api-sports.io/status"
-          echo ""
-          cat /tmp/api_test.json
+          echo "Fetching first 3 match IDs from football-data.org..."
+          curl -s \
+            -H "X-Auth-Token: $FOOTBALL_DATA_KEY" \
+            "https://api.football-data.org/v4/competitions/WC/matches" \
+            | python3 -c "
+import sys, json
+data = json.load(sys.stdin)
+for m in data.get('matches', [])[:5]:
+    print(m['id'], m.get('utcDate',''), (m.get('homeTeam') or {}).get('name','?'), 'vs', (m.get('awayTeam') or {}).get('name','?'))
+"
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
 
