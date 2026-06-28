@@ -15,6 +15,132 @@ API_BASE = "https://api.football-data.org/v4"
 COMPETITION = "WC"
 ET = pytz.timezone("America/New_York")
 
+# Hardcoded venue lookup keyed by football-data.org fixture ID.
+# The API returns venue=null for WC 2026 matches, so we supply it ourselves.
+VENUE_MAP = {
+    # Group A
+    537327: "Estadio Azteca, Mexico City, Mexico",
+    537328: "Estadio Akron, Zapopan, Mexico",
+    537329: "Mercedes-Benz Stadium, Atlanta, GA",
+    537330: "Estadio Akron, Zapopan, Mexico",
+    537331: "Estadio Azteca, Mexico City, Mexico",
+    537332: "Estadio BBVA, Guadalupe, Mexico",
+    # Group B
+    537333: "BMO Field, Toronto, Canada",
+    537334: "Levi's Stadium, Santa Clara, CA",
+    537335: "SoFi Stadium, Inglewood, CA",
+    537336: "BC Place, Vancouver, Canada",
+    537337: "BC Place, Vancouver, Canada",
+    537338: "Lumen Field, Seattle, WA",
+    # Group C
+    537339: "MetLife Stadium, East Rutherford, NJ",
+    537340: "Gillette Stadium, Foxborough, MA",
+    537341: "Lincoln Financial Field, Philadelphia, PA",
+    537342: "Gillette Stadium, Foxborough, MA",
+    537343: "Hard Rock Stadium, Miami Gardens, FL",
+    537344: "Mercedes-Benz Stadium, Atlanta, GA",
+    # Group D
+    537345: "SoFi Stadium, Inglewood, CA",
+    537346: "BC Place, Vancouver, Canada",
+    537347: "Levi's Stadium, Santa Clara, CA",
+    537348: "Lumen Field, Seattle, WA",
+    537349: "SoFi Stadium, Inglewood, CA",
+    537350: "Levi's Stadium, Santa Clara, CA",
+    # Group E
+    537351: "NRG Stadium, Houston, TX",
+    537352: "Lincoln Financial Field, Philadelphia, PA",
+    537353: "BMO Field, Toronto, Canada",
+    537354: "Arrowhead Stadium, Kansas City, MO",
+    537355: "MetLife Stadium, East Rutherford, NJ",
+    537356: "Lincoln Financial Field, Philadelphia, PA",
+    # Group F
+    537357: "AT&T Stadium, Arlington, TX",
+    537358: "Estadio BBVA, Guadalupe, Mexico",
+    537359: "NRG Stadium, Houston, TX",
+    537360: "Estadio BBVA, Guadalupe, Mexico",
+    537361: "Arrowhead Stadium, Kansas City, MO",
+    537362: "AT&T Stadium, Arlington, TX",
+    # Group G
+    537363: "Lumen Field, Seattle, WA",
+    537364: "SoFi Stadium, Inglewood, CA",
+    537365: "SoFi Stadium, Inglewood, CA",
+    537366: "BC Place, Vancouver, Canada",
+    537367: "BC Place, Vancouver, Canada",
+    537368: "Lumen Field, Seattle, WA",
+    # Group H
+    537369: "Mercedes-Benz Stadium, Atlanta, GA",
+    537370: "Hard Rock Stadium, Miami Gardens, FL",
+    537371: "Mercedes-Benz Stadium, Atlanta, GA",
+    537372: "Hard Rock Stadium, Miami Gardens, FL",
+    537373: "Estadio Akron, Zapopan, Mexico",
+    537374: "NRG Stadium, Houston, TX",
+    # Group I
+    537391: "MetLife Stadium, East Rutherford, NJ",
+    537392: "Gillette Stadium, Foxborough, MA",
+    537393: "Lincoln Financial Field, Philadelphia, PA",
+    537394: "MetLife Stadium, East Rutherford, NJ",
+    537395: "Gillette Stadium, Foxborough, MA",
+    537396: "BMO Field, Toronto, Canada",
+    # Group J
+    537397: "Arrowhead Stadium, Kansas City, MO",
+    537398: "Levi's Stadium, Santa Clara, CA",
+    537399: "AT&T Stadium, Arlington, TX",
+    537400: "Levi's Stadium, Santa Clara, CA",
+    537401: "AT&T Stadium, Arlington, TX",
+    537402: "Arrowhead Stadium, Kansas City, MO",
+    # Group K
+    537403: "NRG Stadium, Houston, TX",
+    537404: "Estadio Azteca, Mexico City, Mexico",
+    537405: "NRG Stadium, Houston, TX",
+    537406: "Estadio Akron, Zapopan, Mexico",
+    537407: "Hard Rock Stadium, Miami Gardens, FL",
+    537408: "Mercedes-Benz Stadium, Atlanta, GA",
+    # Group L
+    537409: "AT&T Stadium, Arlington, TX",
+    537410: "BMO Field, Toronto, Canada",
+    537411: "Gillette Stadium, Foxborough, MA",
+    537412: "BMO Field, Toronto, Canada",
+    537413: "MetLife Stadium, East Rutherford, NJ",
+    537414: "Lincoln Financial Field, Philadelphia, PA",
+    # Round of 32
+    537417: "SoFi Stadium, Inglewood, CA",
+    537415: "Gillette Stadium, Foxborough, MA",
+    537423: "NRG Stadium, Houston, TX",
+    537418: "Estadio BBVA, Guadalupe, Mexico",
+    537424: "AT&T Stadium, Arlington, TX",
+    537416: "MetLife Stadium, East Rutherford, NJ",
+    537425: "Estadio Azteca, Mexico City, Mexico",
+    537426: "Mercedes-Benz Stadium, Atlanta, GA",
+    537422: "Lumen Field, Seattle, WA",
+    537421: "Levi's Stadium, Santa Clara, CA",
+    537420: "SoFi Stadium, Inglewood, CA",
+    537419: "BMO Field, Toronto, Canada",
+    537429: "BC Place, Vancouver, Canada",
+    537428: "AT&T Stadium, Arlington, TX",
+    537427: "Hard Rock Stadium, Miami Gardens, FL",
+    537430: "Arrowhead Stadium, Kansas City, MO",
+    # Round of 16
+    537376: "Lincoln Financial Field, Philadelphia, PA",
+    537375: "NRG Stadium, Houston, TX",
+    537377: "MetLife Stadium, East Rutherford, NJ",
+    537378: "Estadio Azteca, Mexico City, Mexico",
+    537379: "AT&T Stadium, Arlington, TX",
+    537380: "Lumen Field, Seattle, WA",
+    537381: "Mercedes-Benz Stadium, Atlanta, GA",
+    537382: "BC Place, Vancouver, Canada",
+    # Quarterfinals
+    537383: "Gillette Stadium, Foxborough, MA",
+    537384: "SoFi Stadium, Inglewood, CA",
+    537385: "Hard Rock Stadium, Miami Gardens, FL",
+    537386: "Arrowhead Stadium, Kansas City, MO",
+    # Semifinals
+    537387: "AT&T Stadium, Arlington, TX",
+    537388: "Mercedes-Benz Stadium, Atlanta, GA",
+    # Third place & Final
+    537389: "Hard Rock Stadium, Miami Gardens, FL",
+    537390: "MetLife Stadium, East Rutherford, NJ",
+}
+
 STATUS_LABELS = {
     "SCHEDULED": "Not Started",
     "TIMED": "Not Started",
@@ -98,7 +224,7 @@ def build_event(match: dict) -> Event:
     full_time = score.get("fullTime") or {}
     home_goals = full_time.get("home")
     away_goals = full_time.get("away")
-    venue = match.get("venue") or ""
+    venue = VENUE_MAP.get(mid) or match.get("venue") or ""
     stage = match.get("stage", "").replace("_", " ").title()
     group = match.get("group") or ""
     round_label = f"{stage} – {group}" if group else stage
