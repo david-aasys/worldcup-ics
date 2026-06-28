@@ -13,8 +13,10 @@ DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 UID:537327@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_A\nKickoff: June 11\, 2026 at 3:0
- 0 PM ET\nScore: Mexico 2 – 0 South Africa (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Estadio Azteca\, Mexico City\, Mexico\nScore: Mexico 2 –
+  0 South Africa (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -23,8 +25,10 @@ DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 UID:537328@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_A\nKickoff: June 11\, 2026 at 10:
- 00 PM ET\nScore: South Korea 2 – 1 Czechia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Estadio Akron\, Zapopan\, Mexico\nScore: South Korea 2 
+ – 1 Czechia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Akron\, Zapopan\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -33,8 +37,10 @@ DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 UID:537333@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_B\nKickoff: June 12\, 2026 at 3:0
- 0 PM ET\nScore: Canada 1 – 1 Bosnia-Herzegovina (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BMO Field\, Toronto\, Canada\nScore: Canada 1 – 1 Bosnia
+ -Herzegovina (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +49,10 @@ DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 UID:537345@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_D\nKickoff: June 12\, 2026 at 9:0
- 0 PM ET\nScore: United States 4 – 1 Paraguay (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: SoFi Stadium\, Inglewood\, CA\nScore: United States 4 – 
+ 1 Paraguay (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -53,8 +61,10 @@ DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 UID:537334@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_B\nKickoff: June 13\, 2026 at 3:0
- 0 PM ET\nScore: Qatar 1 – 1 Switzerland (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Levi's Stadium\, Santa Clara\, CA\nScore: Qatar 1 – 1 Sw
+ itzerland (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -63,8 +73,10 @@ DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 UID:537339@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_C\nKickoff: June 13\, 2026 at 6:0
- 0 PM ET\nScore: Brazil 1 – 1 Morocco (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: MetLife Stadium\, East Rutherford\, NJ\nScore: Brazil 1 
+ – 1 Morocco (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -73,8 +85,10 @@ DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 UID:537340@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_C\nKickoff: June 13\, 2026 at 9:0
- 0 PM ET\nScore: Haiti 0 – 1 Scotland (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Gillette Stadium\, Foxborough\, MA\nScore: Haiti 0 – 1 S
+ cotland (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -83,8 +97,10 @@ DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 UID:537346@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_D\nKickoff: June 14\, 2026 at 12:
- 00 AM ET\nScore: Australia 2 – 0 Turkey (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 AM ET\nVenue: BC Place\, Vancouver\, Canada\nScore: Australia 2 – 0 T
+ urkey (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +109,10 @@ DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 UID:537351@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_E\nKickoff: June 14\, 2026 at 1:0
- 0 PM ET\nScore: Germany 7 – 1 Curaçao (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: NRG Stadium\, Houston\, TX\nScore: Germany 7 – 1 Curaça
+ o (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -103,8 +121,10 @@ DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 UID:537357@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_F\nKickoff: June 14\, 2026 at 4:0
- 0 PM ET\nScore: Netherlands 2 – 2 Japan (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: AT&T Stadium\, Arlington\, TX\nScore: Netherlands 2 – 2 
+ Japan (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -113,8 +133,10 @@ DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 UID:537352@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_E\nKickoff: June 14\, 2026 at 7:0
- 0 PM ET\nScore: Ivory Coast 1 – 0 Ecuador (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lincoln Financial Field\, Philadelphia\, PA\nScore: Ivory 
+ Coast 1 – 0 Ecuador (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -123,8 +145,10 @@ DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 UID:537358@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_F\nKickoff: June 14\, 2026 at 10:
- 00 PM ET\nScore: Sweden 5 – 1 Tunisia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Estadio BBVA\, Guadalupe\, Mexico\nScore: Sweden 5 – 1 
+ Tunisia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -133,8 +157,10 @@ DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 UID:537369@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_H\nKickoff: June 15\, 2026 at 12:
- 00 PM ET\nScore: Spain 0 – 0 Cape Verde Islands (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nScore: Spain 0 – 
+ 0 Cape Verde Islands (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -143,8 +169,10 @@ DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 UID:537363@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_G\nKickoff: June 15\, 2026 at 3:0
- 0 PM ET\nScore: Belgium 1 – 1 Egypt (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lumen Field\, Seattle\, WA\nScore: Belgium 1 – 1 Egypt (
+ Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lumen Field\, Seattle\, WA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -153,8 +181,10 @@ DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 UID:537370@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_H\nKickoff: June 15\, 2026 at 6:0
- 0 PM ET\nScore: Saudi Arabia 1 – 1 Uruguay (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\nScore: Saudi Arabi
+ a 1 – 1 Uruguay (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +193,10 @@ DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 UID:537364@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_G\nKickoff: June 15\, 2026 at 9:0
- 0 PM ET\nScore: Iran 2 – 2 New Zealand (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: SoFi Stadium\, Inglewood\, CA\nScore: Iran 2 – 2 New Zea
+ land (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -173,8 +205,10 @@ DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 UID:537391@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_I\nKickoff: June 16\, 2026 at 3:0
- 0 PM ET\nScore: France 3 – 1 Senegal (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: MetLife Stadium\, East Rutherford\, NJ\nScore: France 3 
+ – 1 Senegal (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -183,8 +217,10 @@ DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 UID:537392@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_I\nKickoff: June 16\, 2026 at 6:0
- 0 PM ET\nScore: Iraq 1 – 4 Norway (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Gillette Stadium\, Foxborough\, MA\nScore: Iraq 1 – 4 No
+ rway (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -193,8 +229,10 @@ DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 UID:537397@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_J\nKickoff: June 16\, 2026 at 9:0
- 0 PM ET\nScore: Argentina 3 – 0 Algeria (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Arrowhead Stadium\, Kansas City\, MO\nScore: Argentina 3 
+ – 0 Algeria (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +241,10 @@ DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 UID:537398@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_J\nKickoff: June 17\, 2026 at 12:
- 00 AM ET\nScore: Austria 3 – 1 Jordan (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 AM ET\nVenue: Levi's Stadium\, Santa Clara\, CA\nScore: Austria 3 – 1
+  Jordan (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -213,8 +253,10 @@ DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 UID:537403@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_K\nKickoff: June 17\, 2026 at 1:0
- 0 PM ET\nScore: Portugal 1 – 1 Congo DR (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: NRG Stadium\, Houston\, TX\nScore: Portugal 1 – 1 Congo 
+ DR (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -223,8 +265,10 @@ DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 UID:537409@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_L\nKickoff: June 17\, 2026 at 4:0
- 0 PM ET\nScore: England 4 – 2 Croatia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: AT&T Stadium\, Arlington\, TX\nScore: England 4 – 2 Croa
+ tia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -233,8 +277,10 @@ DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 UID:537410@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_L\nKickoff: June 17\, 2026 at 7:0
- 0 PM ET\nScore: Ghana 1 – 0 Panama (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BMO Field\, Toronto\, Canada\nScore: Ghana 1 – 0 Panama 
+ (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -243,8 +289,10 @@ DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 UID:537404@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_K\nKickoff: June 17\, 2026 at 10:
- 00 PM ET\nScore: Uzbekistan 1 – 3 Colombia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Estadio Azteca\, Mexico City\, Mexico\nScore: Uzbekistan 
+ 1 – 3 Colombia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -253,8 +301,10 @@ DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 UID:537329@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_A\nKickoff: June 18\, 2026 at 12:
- 00 PM ET\nScore: Czechia 1 – 1 South Africa (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nScore: Czechia 1 
+ – 1 South Africa (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -263,8 +313,10 @@ DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 UID:537335@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_B\nKickoff: June 18\, 2026 at 3:0
- 0 PM ET\nScore: Switzerland 4 – 1 Bosnia-Herzegovina (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: SoFi Stadium\, Inglewood\, CA\nScore: Switzerland 4 – 1 
+ Bosnia-Herzegovina (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -273,8 +325,10 @@ DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 UID:537336@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_B\nKickoff: June 18\, 2026 at 6:0
- 0 PM ET\nScore: Canada 6 – 0 Qatar (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BC Place\, Vancouver\, Canada\nScore: Canada 6 – 0 Qatar
+  (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -283,8 +337,10 @@ DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 UID:537330@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_A\nKickoff: June 18\, 2026 at 9:0
- 0 PM ET\nScore: Mexico 1 – 0 South Korea (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Estadio Akron\, Zapopan\, Mexico\nScore: Mexico 1 – 0 So
+ uth Korea (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Akron\, Zapopan\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -293,8 +349,10 @@ DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 UID:537348@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_D\nKickoff: June 19\, 2026 at 3:0
- 0 PM ET\nScore: United States 2 – 0 Australia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lumen Field\, Seattle\, WA\nScore: United States 2 – 0 A
+ ustralia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lumen Field\, Seattle\, WA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -303,8 +361,10 @@ DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 UID:537342@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_C\nKickoff: June 19\, 2026 at 6:0
- 0 PM ET\nScore: Scotland 0 – 1 Morocco (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Gillette Stadium\, Foxborough\, MA\nScore: Scotland 0 – 
+ 1 Morocco (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -313,8 +373,10 @@ DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 UID:537341@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_C\nKickoff: June 19\, 2026 at 8:3
- 0 PM ET\nScore: Brazil 3 – 0 Haiti (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lincoln Financial Field\, Philadelphia\, PA\nScore: Brazil
+  3 – 0 Haiti (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -323,8 +385,10 @@ DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 UID:537347@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_D\nKickoff: June 19\, 2026 at 11:
- 00 PM ET\nScore: Turkey 0 – 1 Paraguay (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Levi's Stadium\, Santa Clara\, CA\nScore: Turkey 0 – 1 
+ Paraguay (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -333,8 +397,10 @@ DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 UID:537359@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_F\nKickoff: June 20\, 2026 at 1:0
- 0 PM ET\nScore: Netherlands 5 – 1 Sweden (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: NRG Stadium\, Houston\, TX\nScore: Netherlands 5 – 1 Swe
+ den (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -343,8 +409,10 @@ DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 UID:537353@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_E\nKickoff: June 20\, 2026 at 4:0
- 0 PM ET\nScore: Germany 2 – 1 Ivory Coast (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BMO Field\, Toronto\, Canada\nScore: Germany 2 – 1 Ivory
+  Coast (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -353,8 +421,10 @@ DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 UID:537354@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_E\nKickoff: June 20\, 2026 at 8:0
- 0 PM ET\nScore: Ecuador 0 – 0 Curaçao (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Arrowhead Stadium\, Kansas City\, MO\nScore: Ecuador 0 –
+  0 Curaçao (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -363,8 +433,10 @@ DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 UID:537360@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_F\nKickoff: June 21\, 2026 at 12:
- 00 AM ET\nScore: Tunisia 0 – 4 Japan (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 AM ET\nVenue: Estadio BBVA\, Guadalupe\, Mexico\nScore: Tunisia 0 – 4
+  Japan (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -373,8 +445,10 @@ DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 UID:537371@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_H\nKickoff: June 21\, 2026 at 12:
- 00 PM ET\nScore: Spain 4 – 0 Saudi Arabia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nScore: Spain 4 – 
+ 0 Saudi Arabia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -383,8 +457,10 @@ DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 UID:537365@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_G\nKickoff: June 21\, 2026 at 3:0
- 0 PM ET\nScore: Belgium 0 – 0 Iran (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: SoFi Stadium\, Inglewood\, CA\nScore: Belgium 0 – 0 Iran
+  (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -393,8 +469,10 @@ DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 UID:537372@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_H\nKickoff: June 21\, 2026 at 6:0
- 0 PM ET\nScore: Uruguay 2 – 2 Cape Verde Islands (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\nScore: Uruguay 2 
+ – 2 Cape Verde Islands (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -403,8 +481,10 @@ DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 UID:537366@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_G\nKickoff: June 21\, 2026 at 9:0
- 0 PM ET\nScore: New Zealand 1 – 3 Egypt (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BC Place\, Vancouver\, Canada\nScore: New Zealand 1 – 3 
+ Egypt (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -413,8 +493,10 @@ DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 UID:537399@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_J\nKickoff: June 22\, 2026 at 1:0
- 0 PM ET\nScore: Argentina 2 – 0 Austria (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: AT&T Stadium\, Arlington\, TX\nScore: Argentina 2 – 0 Au
+ stria (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -423,8 +505,10 @@ DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 UID:537393@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_I\nKickoff: June 22\, 2026 at 5:0
- 0 PM ET\nScore: France 3 – 0 Iraq (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lincoln Financial Field\, Philadelphia\, PA\nScore: France
+  3 – 0 Iraq (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -433,8 +517,10 @@ DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 UID:537394@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_I\nKickoff: June 22\, 2026 at 8:0
- 0 PM ET\nScore: Norway 3 – 2 Senegal (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: MetLife Stadium\, East Rutherford\, NJ\nScore: Norway 3 
+ – 2 Senegal (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -443,8 +529,10 @@ DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 UID:537400@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_J\nKickoff: June 22\, 2026 at 11:
- 00 PM ET\nScore: Jordan 1 – 2 Algeria (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Levi's Stadium\, Santa Clara\, CA\nScore: Jordan 1 – 2 
+ Algeria (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -453,8 +541,10 @@ DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 UID:537405@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_K\nKickoff: June 23\, 2026 at 1:0
- 0 PM ET\nScore: Portugal 5 – 0 Uzbekistan (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: NRG Stadium\, Houston\, TX\nScore: Portugal 5 – 0 Uzbeki
+ stan (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -463,8 +553,10 @@ DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 UID:537411@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_L\nKickoff: June 23\, 2026 at 4:0
- 0 PM ET\nScore: England 0 – 0 Ghana (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Gillette Stadium\, Foxborough\, MA\nScore: England 0 – 0
+  Ghana (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -473,8 +565,10 @@ DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 UID:537412@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_L\nKickoff: June 23\, 2026 at 7:0
- 0 PM ET\nScore: Panama 0 – 1 Croatia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BMO Field\, Toronto\, Canada\nScore: Panama 0 – 1 Croati
+ a (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -483,8 +577,10 @@ DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 UID:537406@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_K\nKickoff: June 23\, 2026 at 10:
- 00 PM ET\nScore: Colombia 1 – 0 Congo DR (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Estadio Akron\, Zapopan\, Mexico\nScore: Colombia 1 – 0
+  Congo DR (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Akron\, Zapopan\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -493,8 +589,10 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 UID:537337@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_B\nKickoff: June 24\, 2026 at 3:0
- 0 PM ET\nScore: Switzerland 2 – 1 Canada (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BC Place\, Vancouver\, Canada\nScore: Switzerland 2 – 1 
+ Canada (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -503,8 +601,10 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 UID:537338@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_B\nKickoff: June 24\, 2026 at 3:0
- 0 PM ET\nScore: Bosnia-Herzegovina 3 – 1 Qatar (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lumen Field\, Seattle\, WA\nScore: Bosnia-Herzegovina 3 
+ – 1 Qatar (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lumen Field\, Seattle\, WA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -513,8 +613,10 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 UID:537344@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_C\nKickoff: June 24\, 2026 at 6:0
- 0 PM ET\nScore: Morocco 4 – 2 Haiti (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nScore: Morocco 4 –
+  2 Haiti (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -523,8 +625,10 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 UID:537343@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_C\nKickoff: June 24\, 2026 at 6:0
- 0 PM ET\nScore: Scotland 0 – 3 Brazil (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\nScore: Scotland 0 
+ – 3 Brazil (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -533,8 +637,10 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 UID:537331@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_A\nKickoff: June 24\, 2026 at 9:0
- 0 PM ET\nScore: Czechia 0 – 3 Mexico (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Estadio Azteca\, Mexico City\, Mexico\nScore: Czechia 0 
+ – 3 Mexico (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -543,8 +649,10 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 UID:537332@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_A\nKickoff: June 24\, 2026 at 9:0
- 0 PM ET\nScore: South Africa 1 – 0 South Korea (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Estadio BBVA\, Guadalupe\, Mexico\nScore: South Africa 1 
+ – 0 South Korea (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -553,8 +661,10 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 UID:537355@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_E\nKickoff: June 25\, 2026 at 4:0
- 0 PM ET\nScore: Ecuador 2 – 1 Germany (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: MetLife Stadium\, East Rutherford\, NJ\nScore: Ecuador 2 
+ – 1 Germany (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -563,8 +673,10 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 UID:537356@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_E\nKickoff: June 25\, 2026 at 4:0
- 0 PM ET\nScore: Curaçao 0 – 2 Ivory Coast (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lincoln Financial Field\, Philadelphia\, PA\nScore: Curaç
+ ao 0 – 2 Ivory Coast (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -573,8 +685,10 @@ DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 UID:537361@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_F\nKickoff: June 25\, 2026 at 7:0
- 0 PM ET\nScore: Tunisia 1 – 3 Netherlands (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Arrowhead Stadium\, Kansas City\, MO\nScore: Tunisia 1 –
+  3 Netherlands (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -583,8 +697,10 @@ DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 UID:537362@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_F\nKickoff: June 25\, 2026 at 7:0
- 0 PM ET\nScore: Japan 1 – 1 Sweden (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: AT&T Stadium\, Arlington\, TX\nScore: Japan 1 – 1 Sweden
+  (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -593,8 +709,10 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 UID:537349@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_D\nKickoff: June 25\, 2026 at 10:
- 00 PM ET\nScore: Turkey 3 – 2 United States (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: SoFi Stadium\, Inglewood\, CA\nScore: Turkey 3 – 2 Unit
+ ed States (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -603,8 +721,10 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 UID:537350@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_D\nKickoff: June 25\, 2026 at 10:
- 00 PM ET\nScore: Paraguay 0 – 0 Australia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Levi's Stadium\, Santa Clara\, CA\nScore: Paraguay 0 – 
+ 0 Australia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -613,8 +733,10 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 UID:537395@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_I\nKickoff: June 26\, 2026 at 3:0
- 0 PM ET\nScore: Norway 1 – 4 France (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Gillette Stadium\, Foxborough\, MA\nScore: Norway 1 – 4 
+ France (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -623,8 +745,10 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 UID:537396@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_I\nKickoff: June 26\, 2026 at 3:0
- 0 PM ET\nScore: Senegal 5 – 0 Iraq (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: BMO Field\, Toronto\, Canada\nScore: Senegal 5 – 0 Iraq 
+ (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -633,8 +757,10 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 UID:537373@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_H\nKickoff: June 26\, 2026 at 8:0
- 0 PM ET\nScore: Uruguay 0 – 1 Spain (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Estadio Akron\, Zapopan\, Mexico\nScore: Uruguay 0 – 1 S
+ pain (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Akron\, Zapopan\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -643,8 +769,10 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 UID:537374@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_H\nKickoff: June 26\, 2026 at 8:0
- 0 PM ET\nScore: Cape Verde Islands 0 – 0 Saudi Arabia (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: NRG Stadium\, Houston\, TX\nScore: Cape Verde Islands 0 
+ – 0 Saudi Arabia (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -653,8 +781,10 @@ DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 UID:537367@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_G\nKickoff: June 26\, 2026 at 11:
- 00 PM ET\nScore: New Zealand 1 – 5 Belgium (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: BC Place\, Vancouver\, Canada\nScore: New Zealand 1 – 5
+  Belgium (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -663,8 +793,10 @@ DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 UID:537368@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_G\nKickoff: June 26\, 2026 at 11:
- 00 PM ET\nScore: Egypt 1 – 1 Iran (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Lumen Field\, Seattle\, WA\nScore: Egypt 1 – 1 Iran (Fu
+ ll Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lumen Field\, Seattle\, WA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -673,8 +805,10 @@ DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 UID:537413@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_L\nKickoff: June 27\, 2026 at 5:0
- 0 PM ET\nScore: Panama 0 – 2 England (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: MetLife Stadium\, East Rutherford\, NJ\nScore: Panama 0 
+ – 2 England (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -683,8 +817,10 @@ DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 UID:537414@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_L\nKickoff: June 27\, 2026 at 5:0
- 0 PM ET\nScore: Croatia 2 – 1 Ghana (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Lincoln Financial Field\, Philadelphia\, PA\nScore: Croati
+ a 2 – 1 Ghana (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -693,8 +829,10 @@ DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 UID:537407@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_K\nKickoff: June 27\, 2026 at 7:3
- 0 PM ET\nScore: Colombia 0 – 0 Portugal (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Hard Rock Stadium\, Miami Gardens\, FL\nScore: Colombia 0 
+ – 0 Portugal (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -703,8 +841,10 @@ DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 UID:537408@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_K\nKickoff: June 27\, 2026 at 7:3
- 0 PM ET\nScore: Congo DR 3 – 1 Uzbekistan (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 0 PM ET\nVenue: Mercedes-Benz Stadium\, Atlanta\, GA\nScore: Congo DR 3 
+ – 1 Uzbekistan (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -713,8 +853,10 @@ DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 UID:537401@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_J\nKickoff: June 27\, 2026 at 10:
- 00 PM ET\nScore: Jordan 1 – 3 Argentina (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: AT&T Stadium\, Arlington\, TX\nScore: Jordan 1 – 3 Arge
+ ntina (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -723,8 +865,10 @@ DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 UID:537402@worldcup2026
 DESCRIPTION:Round: Group Stage – GROUP_J\nKickoff: June 27\, 2026 at 10:
- 00 PM ET\nScore: Algeria 3 – 3 Austria (Full Time)
-LAST-MODIFIED:20260628T185433Z
+ 00 PM ET\nVenue: Arrowhead Stadium\, Kansas City\, MO\nScore: Algeria 3 
+ – 3 Austria (Full Time)
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -732,9 +876,10 @@ SUMMARY:🇿🇦 South Africa vs Canada 🇨🇦
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 UID:537417@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 28\, 2026 at 3:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 28\, 2026 at 3:00 PM ET\nVenue: 
+ SoFi Stadium\, Inglewood\, CA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -742,9 +887,10 @@ SUMMARY:🇧🇷 Brazil vs Japan 🇯🇵
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 UID:537423@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 29\, 2026 at 1:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 29\, 2026 at 1:00 PM ET\nVenue: 
+ NRG Stadium\, Houston\, TX\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -752,9 +898,10 @@ SUMMARY:🇩🇪 Germany vs Paraguay 🇵🇾
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 UID:537415@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 29\, 2026 at 4:30 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 29\, 2026 at 4:30 PM ET\nVenue: 
+ Gillette Stadium\, Foxborough\, MA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -762,9 +909,10 @@ SUMMARY:🇳🇱 Netherlands vs Morocco 🇲🇦
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 UID:537418@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 29\, 2026 at 9:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 29\, 2026 at 9:00 PM ET\nVenue: 
+ Estadio BBVA\, Guadalupe\, Mexico\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -772,9 +920,10 @@ SUMMARY:🇨🇮 Ivory Coast vs Norway 🇳🇴
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 UID:537424@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 30\, 2026 at 1:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 30\, 2026 at 1:00 PM ET\nVenue: 
+ AT&T Stadium\, Arlington\, TX\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -782,9 +931,10 @@ SUMMARY:🇫🇷 France vs Sweden 🇸🇪
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 UID:537416@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 30\, 2026 at 5:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 30\, 2026 at 5:00 PM ET\nVenue: 
+ MetLife Stadium\, East Rutherford\, NJ\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -792,9 +942,10 @@ SUMMARY:🇲🇽 Mexico vs Ecuador 🇪🇨
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 UID:537425@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: June 30\, 2026 at 9:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: June 30\, 2026 at 9:00 PM ET\nVenue: 
+ Estadio Azteca\, Mexico City\, Mexico\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -802,9 +953,10 @@ SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Congo DR
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 UID:537426@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 1\, 2026 at 12:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 1\, 2026 at 12:00 PM ET\nVenue: 
+ Mercedes-Benz Stadium\, Atlanta\, GA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -812,9 +964,10 @@ SUMMARY:🇧🇪 Belgium vs Senegal 🇸🇳
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 UID:537422@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 1\, 2026 at 4:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 1\, 2026 at 4:00 PM ET\nVenue: L
+ umen Field\, Seattle\, WA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lumen Field\, Seattle\, WA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -822,9 +975,10 @@ SUMMARY:🇺🇸 United States vs Bosnia-Herzegovina
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 UID:537421@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 1\, 2026 at 8:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 1\, 2026 at 8:00 PM ET\nVenue: L
+ evi's Stadium\, Santa Clara\, CA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Levi's Stadium\, Santa Clara\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -832,9 +986,10 @@ SUMMARY:🇪🇸 Spain vs Austria 🇦🇹
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 UID:537420@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 2\, 2026 at 3:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 2\, 2026 at 3:00 PM ET\nVenue: S
+ oFi Stadium\, Inglewood\, CA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -842,9 +997,10 @@ SUMMARY:🇵🇹 Portugal vs Croatia 🇭🇷
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 UID:537419@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 2\, 2026 at 7:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 2\, 2026 at 7:00 PM ET\nVenue: B
+ MO Field\, Toronto\, Canada\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BMO Field\, Toronto\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -852,9 +1008,10 @@ SUMMARY:🇨🇭 Switzerland vs Algeria 🇩🇿
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 UID:537429@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 2\, 2026 at 11:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 2\, 2026 at 11:00 PM ET\nVenue: 
+ BC Place\, Vancouver\, Canada\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -862,9 +1019,10 @@ SUMMARY:🇦🇺 Australia vs Egypt 🇪🇬
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 UID:537428@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 3\, 2026 at 2:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 3\, 2026 at 2:00 PM ET\nVenue: A
+ T&T Stadium\, Arlington\, TX\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -872,9 +1030,10 @@ SUMMARY:🇦🇷 Argentina vs Cape Verde Islands
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 UID:537427@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 3\, 2026 at 6:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 3\, 2026 at 6:00 PM ET\nVenue: H
+ ard Rock Stadium\, Miami Gardens\, FL\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -882,9 +1041,10 @@ SUMMARY:🇨🇴 Colombia vs Ghana 🇬🇭
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 UID:537430@worldcup2026
-DESCRIPTION:Round: Last 32\nKickoff: July 3\, 2026 at 9:30 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 32\nKickoff: July 3\, 2026 at 9:30 PM ET\nVenue: A
+ rrowhead Stadium\, Kansas City\, MO\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -892,9 +1052,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 UID:537376@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 4\, 2026 at 1:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 4\, 2026 at 1:00 PM ET\nVenue: L
+ incoln Financial Field\, Philadelphia\, PA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -902,9 +1063,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 UID:537375@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 4\, 2026 at 5:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 4\, 2026 at 5:00 PM ET\nVenue: N
+ RG Stadium\, Houston\, TX\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:NRG Stadium\, Houston\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -912,9 +1074,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 UID:537377@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 5\, 2026 at 4:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 5\, 2026 at 4:00 PM ET\nVenue: M
+ etLife Stadium\, East Rutherford\, NJ\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -922,9 +1085,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 UID:537378@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 5\, 2026 at 8:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 5\, 2026 at 8:00 PM ET\nVenue: E
+ stadio Azteca\, Mexico City\, Mexico\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -932,9 +1096,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 UID:537379@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 6\, 2026 at 3:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 6\, 2026 at 3:00 PM ET\nVenue: A
+ T&T Stadium\, Arlington\, TX\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -942,9 +1107,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 UID:537380@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 6\, 2026 at 8:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 6\, 2026 at 8:00 PM ET\nVenue: L
+ umen Field\, Seattle\, WA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Lumen Field\, Seattle\, WA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -952,9 +1118,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 UID:537381@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 7\, 2026 at 12:00 PM ET\nStatus:
-  Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 7\, 2026 at 12:00 PM ET\nVenue: 
+ Mercedes-Benz Stadium\, Atlanta\, GA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -962,9 +1129,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 UID:537382@worldcup2026
-DESCRIPTION:Round: Last 16\nKickoff: July 7\, 2026 at 4:00 PM ET\nStatus: 
- Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Last 16\nKickoff: July 7\, 2026 at 4:00 PM ET\nVenue: B
+ C Place\, Vancouver\, Canada\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:BC Place\, Vancouver\, Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -972,9 +1140,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 UID:537383@worldcup2026
-DESCRIPTION:Round: Quarter Finals\nKickoff: July 9\, 2026 at 4:00 PM ET\nS
- tatus: Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Quarter Finals\nKickoff: July 9\, 2026 at 4:00 PM ET\nV
+ enue: Gillette Stadium\, Foxborough\, MA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Gillette Stadium\, Foxborough\, MA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -983,8 +1152,9 @@ DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 UID:537384@worldcup2026
 DESCRIPTION:Round: Quarter Finals\nKickoff: July 10\, 2026 at 3:00 PM ET\n
- Status: Not Started
-LAST-MODIFIED:20260628T185433Z
+ Venue: SoFi Stadium\, Inglewood\, CA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:SoFi Stadium\, Inglewood\, CA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -993,8 +1163,9 @@ DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 UID:537385@worldcup2026
 DESCRIPTION:Round: Quarter Finals\nKickoff: July 11\, 2026 at 5:00 PM ET\n
- Status: Not Started
-LAST-MODIFIED:20260628T185433Z
+ Venue: Hard Rock Stadium\, Miami Gardens\, FL\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,8 +1174,9 @@ DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 UID:537386@worldcup2026
 DESCRIPTION:Round: Quarter Finals\nKickoff: July 11\, 2026 at 9:00 PM ET\n
- Status: Not Started
-LAST-MODIFIED:20260628T185433Z
+ Venue: Arrowhead Stadium\, Kansas City\, MO\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1012,9 +1184,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 UID:537387@worldcup2026
-DESCRIPTION:Round: Semi Finals\nKickoff: July 14\, 2026 at 3:00 PM ET\nSta
- tus: Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Semi Finals\nKickoff: July 14\, 2026 at 3:00 PM ET\nVen
+ ue: AT&T Stadium\, Arlington\, TX\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:AT&T Stadium\, Arlington\, TX
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,9 +1195,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 UID:537388@worldcup2026
-DESCRIPTION:Round: Semi Finals\nKickoff: July 15\, 2026 at 3:00 PM ET\nSta
- tus: Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Semi Finals\nKickoff: July 15\, 2026 at 3:00 PM ET\nVen
+ ue: Mercedes-Benz Stadium\, Atlanta\, GA\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1032,9 +1206,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 UID:537389@worldcup2026
-DESCRIPTION:Round: Third Place\nKickoff: July 18\, 2026 at 5:00 PM ET\nSta
- tus: Not Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Third Place\nKickoff: July 18\, 2026 at 5:00 PM ET\nVen
+ ue: Hard Rock Stadium\, Miami Gardens\, FL\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1042,9 +1217,10 @@ SUMMARY:TBD vs TBD
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 UID:537390@worldcup2026
-DESCRIPTION:Round: Final\nKickoff: July 19\, 2026 at 3:00 PM ET\nStatus: N
- ot Started
-LAST-MODIFIED:20260628T185433Z
+DESCRIPTION:Round: Final\nKickoff: July 19\, 2026 at 3:00 PM ET\nVenue: Me
+ tLife Stadium\, East Rutherford\, NJ\nStatus: Not Started
+LAST-MODIFIED:20260628T185705Z
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
