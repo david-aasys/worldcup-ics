@@ -39,16 +39,10 @@ jobs:
 
       - name: Sample API match IDs
         run: |
-          echo "Fetching first 3 match IDs from football-data.org..."
-          curl -s \
-            -H "X-Auth-Token: $FOOTBALL_DATA_KEY" \
+          curl -s -H "X-Auth-Token: $FOOTBALL_DATA_KEY" \
             "https://api.football-data.org/v4/competitions/WC/matches" \
-            | python3 -c "
-import sys, json
-data = json.load(sys.stdin)
-for m in data.get('matches', [])[:5]:
-    print(m['id'], m.get('utcDate',''), (m.get('homeTeam') or {}).get('name','?'), 'vs', (m.get('awayTeam') or {}).get('name','?'))
-"
+            -o /tmp/matches.json
+          python3 /tmp/debug_ids.py
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
 
